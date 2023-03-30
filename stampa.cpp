@@ -8,8 +8,8 @@ Alex Degl'innocenti 30/03/2023
 using namespace std;
 int main()
 {
-  int i=10 ,n;
-  cout<<"Quante volte voi stampare la frase? ";
+  int i=0 ,n;
+  cout<<"Quante volte vuoi stampare la frase? \n";
   cin>>n;
   while (i<n)
   {
